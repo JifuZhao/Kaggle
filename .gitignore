@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.csv
+*.h5
 *.Bmp
 *.py[cod]
 *$py.class
