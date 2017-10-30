@@ -5,6 +5,7 @@ __pycache__/
 *.Bmp
 *.py[cod]
 *$py.class
+*.json
 
 # Julia
 *.jl.cov
