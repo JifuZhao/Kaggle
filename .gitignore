@@ -15,6 +15,7 @@ deps/deps.jl
 
 # Mac
 .DS_Store
+*.zip
 
 # C extensions
 *.so
