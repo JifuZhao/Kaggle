@@ -17,6 +17,7 @@ deps/deps.jl
 .DS_Store
 *.zip
 *.7z
+*.jpg
 
 # C extensions
 *.so
