@@ -7,6 +7,16 @@ __pycache__/
 *$py.class
 *.json
 
+# data
+*.csv
+*.jpg
+*.json
+.DS_Store
+*.zip
+*.7z
+*.tar
+*.gz
+
 # Julia
 *.jl.cov
 *.jl.*.cov
