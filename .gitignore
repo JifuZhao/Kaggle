@@ -5,8 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-data/*.csv
+redhat/data/*
 *.numbers
+*.h5
+*.Bmp
+*.json
 
 # Mac files
 .DS_Store
